@@ -1,0 +1,18 @@
+.bold {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: cursive;
+}
+.main {
+  margin: 0 20%;
+  border-top: 4px solid;
+  border-bottom: 4px solid;
+
+  }
+
+h1 {
+  text-align: center;
+}
+.edu, .work, .skills {
+  border-top: 1px solid;
+}
