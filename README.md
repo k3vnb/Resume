@@ -2,7 +2,7 @@
 
 #### A novice coder's early learnings in the way of linking CSS and HTML.  
 10/11/17
-#### By _**Kevin Boyl & Colin Worfe**_
+#### By _**Kevin Boyle & Colin Worf**_
 
 ### Description
 Simple HTML & CSS rendering a resume-esque view.
